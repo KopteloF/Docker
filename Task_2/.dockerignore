@@ -1,0 +1,5 @@
+.vscode
+.idea
+com.md
+venv
+docker_scratch
